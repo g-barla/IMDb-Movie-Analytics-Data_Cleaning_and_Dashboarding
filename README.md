@@ -2,7 +2,7 @@
 
 
 ## 📌 Project Summary  
-This end-to-end BI project explores the massive **IMDb open dataset** (100M+ records) and demonstrates my ability to:  
+This end-to-end BI project explores the massive **IMDb open dataset** (100M+ records) and demonstrates our ability to:  
 
 ✅ Design scalable ETL pipelines  
 ✅ Normalize and model complex, nested data  
@@ -119,6 +119,6 @@ As a **Business Analyst**, this solution allows users to:
 ---
 
 **Feel free to fork, explore, and contribute!**
-📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/je-pulipati/) If you’re hiring for Data Engineering, Analytics, or BI intern roles im open hiring!
+📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/je-pulipati/) If you’re hiring for Data Engineering, Analytics, or BI intern roles im open to working!
 
 ---
